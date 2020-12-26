@@ -84,9 +84,9 @@ return [
     |
     */
 
-    'MAILGUN_DOMAIN' => 'sandbox6e0a5bb0c4824a34a888e90897353405.mailgun.org',
+    'MAILGUN_DOMAIN' => '',
 
-    'MAILGUN_SECRET' => '06b20e4ba97fce2925fe6c4e04c43fa0-4167c382-d5ce71e6',
+    'MAILGUN_SECRET' => '',
 
     /*
     |--------------------------------------------------------------------------
